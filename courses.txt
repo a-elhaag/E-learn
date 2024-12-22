@@ -1,0 +1,4 @@
+1,Introduction to Python,Learn the basics of Python programming.,admin,49.99
+2,Data Science Essentials,Dive into data analysis and visualization.,admin,59.99
+3,Web Development with Django,Build dynamic websites using Django framework.,admin,69.99
+4,1,try,anaselha,53.00
